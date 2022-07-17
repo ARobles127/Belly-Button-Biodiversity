@@ -27,4 +27,4 @@ This chart displays the weekly washing frequency's value, and displays the value
 
 
 
-The link to the dashboard can be found here: . 
+The link to the dashboard can be found here: https://arobles127.github.io/Belly-Button-Biodiversity/. 
